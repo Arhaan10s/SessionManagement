@@ -21,7 +21,7 @@ export default function MainHeader(){
             <UpcomingSessions onClose={hideUpcomingSessions} />
         )}
             <header id="main-header">
-                <h1>ReactMonitoring</h1>
+                <h1>Session Management</h1>
                 <nav>
                     <ul>
                         <li>

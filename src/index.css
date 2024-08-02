@@ -130,9 +130,12 @@ ul {
 }
 
 #home-page section {
+  padding:10px;
   display: flex;
   gap: 2rem;
   margin: 3rem 0;
+  background-color:#5a5563; 
+  border-radius: 10px;
 }
 
 #home-page section:nth-child(odd) {
